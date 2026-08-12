@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "updateUrl": "https://kernelmclaun.github.io/launcher/ver.json",
+  "required": true,
+  "notes": "Initial KernelMCLauncher release.",
+  "downloads": {
+    "debian": "https://kernelmclaun.github.io/launcher/KernelMCLauncher_1.0.0_amd64.deb",
+    "linux": "https://kernelmclaun.github.io/launcher/KernelMCLauncher-1.0.0.AppImage",
+    "windows": "https://kernelmclaun.github.io/launcher/KernelMCLauncher-Setup-1.0.0.exe"
+  }
+}
